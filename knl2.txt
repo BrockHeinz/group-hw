@@ -1,5 +1,0 @@
-Dog
-Cat
-Fish
-Carrot
-knl3.txt
